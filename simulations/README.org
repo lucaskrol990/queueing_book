@@ -82,6 +82,7 @@ Because of this the analytical analysis is hard, but with simulation we can get 
 The task is to make a plan to determine the number of cashiers we need to prevent the queue from exploding.
 
 - Youtube: https://studio.youtube.com/video/nV4MwjMe3vQ/edit
+This link does not work, I think this is the editor link instead of one where we can watch the simulation lecture
 - ~5_multiserver-queue-dynamic-arrival-rates.org~
 - ~5_multiserver-queue-dynamic-arrival-rates.pdf~
 
